@@ -6,5 +6,4 @@
 
 ### Openclassroom
 
-- Nguyen Ngoc Cuong
-- cuong.shodan@gmail.com
+- Nguyen Cuong
