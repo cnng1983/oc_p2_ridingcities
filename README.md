@@ -8,5 +8,3 @@
 
 - Nguyen Ngoc Cuong
 - cuong.shodan@gmail.com
-# oc_p2_ridingcities
-# oc_p2_ridingcities
